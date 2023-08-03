@@ -1,0 +1,15 @@
+D:\practicas analisis 2\obj\Debug\net7.0\practicas analisis 2.csproj.AssemblyReference.cache
+D:\practicas analisis 2\obj\Debug\net7.0\practicas analisis 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicas analisis 2\obj\Debug\net7.0\practicas analisis 2.AssemblyInfoInputs.cache
+D:\practicas analisis 2\obj\Debug\net7.0\practicas analisis 2.AssemblyInfo.cs
+D:\practicas analisis 2\obj\Debug\net7.0\practicas analisis 2.csproj.CoreCompileInputs.cache
+D:\practicas analisis 2\bin\Debug\net7.0\practicas analisis 2.exe
+D:\practicas analisis 2\bin\Debug\net7.0\practicas analisis 2.deps.json
+D:\practicas analisis 2\bin\Debug\net7.0\practicas analisis 2.runtimeconfig.json
+D:\practicas analisis 2\bin\Debug\net7.0\practicas analisis 2.dll
+D:\practicas analisis 2\bin\Debug\net7.0\practicas analisis 2.pdb
+D:\practicas analisis 2\obj\Debug\net7.0\practicas analisis 2.dll
+D:\practicas analisis 2\obj\Debug\net7.0\refint\practicas analisis 2.dll
+D:\practicas analisis 2\obj\Debug\net7.0\practicas analisis 2.pdb
+D:\practicas analisis 2\obj\Debug\net7.0\practicas analisis 2.genruntimeconfig.cache
+D:\practicas analisis 2\obj\Debug\net7.0\ref\practicas analisis 2.dll
